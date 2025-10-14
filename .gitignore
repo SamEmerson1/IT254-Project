@@ -1,0 +1,61 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual environments ----
+venv/
+.env/
+env/
+.venv/
+
+# ---- Packages / build artifacts ----
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ---- Logs / temp ----
+*.log
+*.pot
+*.pyc
+*.pyo
+*.tmp
+*.swp
+*.swo
+
+# ---- IDE / Editor settings ----
+.vscode/
+.idea/
+*.code-workspace
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Jupyter / Notebook ----
+.ipynb_checkpoints/
+
+# ---- TensorFlow / JAX cache ----
+.tensorflow/
+.tfruns/
+__pycache__/
+*.ckpt
+*.pb
+
+
+# ---- Other ----
+*.db
+*.sqlite3
