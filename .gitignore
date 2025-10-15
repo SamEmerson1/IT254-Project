@@ -54,7 +54,7 @@ Thumbs.db
 __pycache__/
 *.ckpt
 *.pb
-
+*.pt
 
 # ---- Other ----
 *.db
